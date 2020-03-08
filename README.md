@@ -13,6 +13,11 @@ a cnn project to recognize characters
 ```
 python src/models/train_model.py
 ```
+### predict
+```
+python src/models/predict_model.py
+```
+
 
 Project Organization
 ------------
